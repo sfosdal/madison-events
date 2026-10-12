@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#1b2733"/>
+  <!-- the city flag: the lakes in light blue either side of the white isthmus, the sun at its centre -->
+  <polygon points="3,4 25,4 3,26" fill="#5ba4cf"/>
+  <polygon points="29,6 29,28 7,28" fill="#5ba4cf"/>
+  <polygon points="25,4 29,4 29,6 7,28 3,28 3,26" fill="#ffffff"/>
+  <circle cx="16" cy="16" r="6.4" fill="#141a20"/>
+  <circle cx="16" cy="16" r="2.1" fill="#ffffff"/>
+  <g stroke="#ffffff" stroke-width="1.1" stroke-linecap="round">
+    <path d="M16 11.2v1.6M16 19.2v1.6M11.2 16h1.6M19.2 16h1.6"/>
+    <path d="M12.6 12.6l1.1 1.1M18.3 18.3l1.1 1.1M12.6 19.4l1.1-1.1M18.3 13.7l1.1-1.1"/>
+  </g>
+</svg>

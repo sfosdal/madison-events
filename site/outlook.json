@@ -1,0 +1,10 @@
+{
+  "_": "Off-season blurbs for the Teams view's form block (app.js renderTeamForm): shown before a season starts and once one is well over. Plain text, one per team slug. Edit freely — nothing generates this file.",
+  "badgers": "The Badgers' season runs late August to November at Camp Randall, seven home Saturdays, with the Big Ten Championship and the College Football Playoff beyond that for the top of the conference.",
+  "badgershoops": "The Badgers' season runs November to March at the Kohl Center, with the Big Ten Tournament and the NCAA Tournament beyond that; the schedule above fills in once ESPN moves from the preseason to the regular season.",
+  "badgershockey": "The Badgers' Big Ten season runs October to March at the Kohl Center, with the conference tournament and the NCAA regionals beyond that.",
+  "forward": "Forward Madison's USL League One season runs March to October at Breese Stevens Field, 15 home matches, with the playoffs beyond that; the fixture list arrives over the winter.",
+  "packers": "The Packers' season runs September to January at Lambeau Field, with the playoffs beyond that; flex-week kickoffs fill in above as the league confirms them.",
+  "brewers": "Spring training opens in Phoenix in February and the regular season in late March at American Family Field; the schedule above fills in once MLB publishes it.",
+  "bucks": "The Bucks' season runs late October to April at Fiserv Forum, 41 home dates, with the play-in and the playoffs beyond that."
+}
