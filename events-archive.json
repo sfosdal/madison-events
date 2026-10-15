@@ -241,6 +241,15 @@
    "url": "https://www.ticketmaster.com/armand-hammer-madison-wisconsin-10-13-2026/event/07006429A8384F38",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Carbon Leaf",
+   "date": "2026-10-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/carbon-leaf-madison-wisconsin-10-14-2026/event/070064A8A37D4209",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
