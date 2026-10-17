@@ -267,6 +267,55 @@
    "url": "https://www.ticketmaster.com/magenta-wave-madison-wisconsin-10-15-2026/event/070064C20D717FF7",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Lenny Pearce - Toddler Rave World Tour",
+   "date": "2026-10-16",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/lenny-pearce-toddler-rave-world-tour-madison-wisconsin-10-16-2026/event/070064C5995F3F30",
+   "type": "concert"
+  },
+  {
+   "venue": "UW Field House",
+   "title": "Wisconsin Badgers Womens Volleyball vs. Maryland Terrapins Womens Volleyball",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://uwbadgers.com/sports/womens-volleyball/schedule",
+   "type": "sports"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Josh Johnson's Comedy Band Camp",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/josh-johnsons-comedy-band-camp-madison-wisconsin-10-16-2026/event/0700645BC6AC8EB4",
+   "type": "arts"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Digable Planets-Celebrating 30 Years Of Blow Out Comb",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/digable-planetscelebrating-30-years-of-blow-madison-wisconsin-10-16-2026/event/070064BCF4E86D16",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Blake Whiten-Something To Say Tour",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/blake-whitensomething-to-say-tour-madison-wisconsin-10-16-2026/event/0700649BA3FF3A9E",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Josh Johnson's Comedy Band Camp",
+   "date": "2026-10-16",
+   "time": "22:00:00",
+   "url": "https://www.ticketmaster.com/josh-johnsons-comedy-band-camp-madison-wisconsin-10-16-2026/event/0700645BC6B08EB9",
+   "type": "arts"
   }
  ]
 }
