@@ -316,6 +316,52 @@
    "time": "22:00:00",
    "url": "https://www.ticketmaster.com/josh-johnsons-comedy-band-camp-madison-wisconsin-10-16-2026/event/0700645BC6B08EB9",
    "type": "arts"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Freak Show- Dance Fitness Party",
+   "date": "2026-10-17",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/freak-show-dance-fitness-party-madison-wisconsin-10-17-2026/event/07006522DA225F01",
+   "age21": true
+  },
+  {
+   "venue": "Breese Stevens Field",
+   "title": "Forward Madison FC vs Portland Hearts of Pine",
+   "date": "2026-10-17",
+   "time": "17:00:00",
+   "url": "https://www.forwardmadisonfc.com/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   }
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "The Menzingers: Everything I Ever Saw North American Tour",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-menzingers-everything-i-ever-saw-madison-wisconsin-10-17-2026/event/07006499AC8E4C87",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Medium Build Presents The King of Having Fun on Tour",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/medium-build-presents-the-king-of-madison-wisconsin-10-17-2026/event/070064D8D1CA85FF",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Pink Halo: 'Daydream' Album Release Show",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/pink-halo-daydream-album-release-show-madison-wisconsin-10-17-2026/event/07006523AA0A2E40",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
