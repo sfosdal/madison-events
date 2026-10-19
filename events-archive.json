@@ -362,6 +362,15 @@
    "url": "https://www.ticketmaster.com/pink-halo-daydream-album-release-show-madison-wisconsin-10-17-2026/event/07006523AA0A2E40",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Eggy - Something In The Air Tour",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/eggy-something-in-the-air-tour-madison-wisconsin-10-18-2026/event/0700635EEE248722",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
