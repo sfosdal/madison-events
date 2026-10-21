@@ -379,6 +379,31 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/wheeler-walker-jr-pullin-out-the-madison-wisconsin-10-19-2026/event/070064C392CE325A",
    "type": "concert"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Judah & the Lion",
+   "date": "2026-10-20",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/judah-the-lion-madison-wisconsin-10-20-2026/event/070064CAE1397B17",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "The Army, The Navy: The Fake Brave Tour 2026",
+   "date": "2026-10-20",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/the-army-the-navy-the-fake-madison-wisconsin-10-20-2026/event/070064CBDCF16C02",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Tank and The Bangas - The Last Balloon Tour",
+   "date": "2026-10-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/tank-and-the-bangas-the-last-madison-wisconsin-10-20-2026/event/07006471C3E261CF",
+   "type": "concert"
   }
  ]
 }
