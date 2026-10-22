@@ -404,6 +404,23 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/tank-and-the-bangas-the-last-madison-wisconsin-10-20-2026/event/07006471C3E261CF",
    "type": "concert"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Sleeping With Sirens: An Ending In Itself Tour",
+   "date": "2026-10-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/sleeping-with-sirens-an-ending-in-madison-wisconsin-10-21-2026/event/070064CA8D25212F",
+   "type": "concert"
+  },
+  {
+   "venue": "Barrymore Theatre",
+   "title": "Adam Ray: Who Is Me Tour",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/adam-ray-who-is-me-tour-madison-wisconsin-10-21-2026/event/07006495A5153926",
+   "age21": true,
+   "type": "arts"
   }
  ]
 }
