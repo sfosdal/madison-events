@@ -42,7 +42,7 @@
   var TEAMS = [
     { slug: 'badgers', label: 'Badgers', name: 'Wisconsin Badgers', abbr: 'WIS', re: /badgers football/i, sport: 'football', venue: 'Camp Randall Stadium', colors: ['#c5050c', '#ffffff'],
       espn: { sport: 'football', league: 'college-football', id: '275' }, season: { kind: 'espn' }, form: { kind: 'espn' },
-      inject: { url: 'https://uwbadgers.com/sports/football/tickets', name: 'Wisconsin Badgers Football' }, // Ticketmaster lists only the next few Saturdays
+      inject: { url: 'https://uwbadgers.com/sports/football/schedule', name: 'Wisconsin Badgers Football' }, // Ticketmaster lists only the next few Saturdays
       logo: 'https://a.espncdn.com/i/teamlogos/ncaa/500/275.png', schedule: 'https://uwbadgers.com/sports/football/schedule',
       club: 'Wisconsin Badgers', opens: 'late August', wiki: { title: 'Wisconsin Badgers football', teamPage: true }, // college seasons are titled "2026 Wisconsin Badgers football team", not "… season"
       news: [['https://www.buckys5thquarter.com/rss/current.xml', "Bucky's 5th Quarter"]] },
@@ -118,9 +118,9 @@
       type: 'concert',
       cssVar: '--v-coliseum',
       color: '#c086ea',
-      url: 'https://www.alliantenergycenter.com/events',
+      url: 'https://www.alliantenergycenter.com/upcoming-events',
       icon: 'https://www.google.com/s2/favicons?domain=www.alliantenergycenter.com&sz=128',
-      tm: { id: 'KovZpZAF6nvA', match: 'coliseum', fallbackUrl: 'https://www.alliantenergycenter.com/events', exclude: /parking/i },
+      tm: { id: 'KovZpZAF6nvA', match: 'coliseum', fallbackUrl: 'https://www.alliantenergycenter.com/upcoming-events', exclude: /parking/i },
       alias: /veterans memorial coliseum|coliseum at alliant/i,
     },
     'UW Field House': {
@@ -138,9 +138,9 @@
       type: 'sports',
       cssVar: '--v-breese',
       color: '#86d9ea',
-      url: 'https://www.breesestevensfield.com/events',
+      url: 'https://www.breesestevensfield.com/upcoming-events',
       icon: 'https://www.google.com/s2/favicons?domain=www.breesestevensfield.com&sz=128',
-      tm: { id: 'KovZpZAEd1vA', match: 'breese stevens', fallbackUrl: 'https://www.breesestevensfield.com/events' },
+      tm: { id: 'KovZpZAEd1vA', match: 'breese stevens', fallbackUrl: 'https://www.breesestevensfield.com/upcoming-events' },
       alias: /breese stevens/i,
     },
     'Alliant Energy Center': {
@@ -148,9 +148,9 @@
       type: 'community',
       cssVar: '--v-alliant',
       color: '#ea86bc',
-      url: 'https://www.alliantenergycenter.com/events',
+      url: 'https://www.alliantenergycenter.com/upcoming-events',
       icon: 'https://www.google.com/s2/favicons?domain=www.alliantenergycenter.com&sz=128',
-      tm: { id: 'KovZ917ASD_', match: 'alliant energy center', fallbackUrl: 'https://www.alliantenergycenter.com/events', exclude: /parking/i },
+      tm: { id: 'KovZ917ASD_', match: 'alliant energy center', fallbackUrl: 'https://www.alliantenergycenter.com/upcoming-events', exclude: /parking/i },
       alias: /arena at alliant|alliant energy center arena|exhibition hall at alliant|new holland pavilion/i,
     },
     'The Sylvee': {
@@ -158,9 +158,9 @@
       type: 'concert',
       cssVar: '--v-sylvee',
       color: '#9fea86',
-      url: 'https://www.thesylvee.com/events/',
+      url: 'https://thesylvee.com/calendar/',
       icon: 'https://www.google.com/s2/favicons?domain=www.thesylvee.com&sz=128',
-      tm: { id: 'KovZ917AQBC', match: 'sylvee', fallbackUrl: 'https://www.thesylvee.com/events/' },
+      tm: { id: 'KovZ917AQBC', match: 'sylvee', fallbackUrl: 'https://thesylvee.com/calendar/' },
       alias: /sylvee/i,
     },
     'Overture Center': { // Overture Hall (2,251) and the Capitol Theater (1,089): Ticketmaster lists both rooms under the Capitol's name, so they are one row here
@@ -178,9 +178,9 @@
       type: 'concert',
       cssVar: '--v-orpheum',
       color: '#eaa786',
-      url: 'https://www.madisonorpheum.com/events',
+      url: 'https://madisonorpheum.com/calendar/',
       icon: 'https://www.google.com/s2/favicons?domain=www.madisonorpheum.com&sz=128',
-      tm: { id: 'KovZpZAalItA', match: 'orpheum', fallbackUrl: 'https://www.madisonorpheum.com/events' },
+      tm: { id: 'KovZpZAalItA', match: 'orpheum', fallbackUrl: 'https://madisonorpheum.com/calendar/' },
       alias: /orpheum/i,
     },
     // --- Music rooms (`area: 'town'`): the Barrymore, the Majestic and the High Noon ---
