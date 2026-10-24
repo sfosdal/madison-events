@@ -429,6 +429,48 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/beat-belewvailevinbozzio-performing-the-music-of-madison-wisconsin-10-22-2026/event/070064FEA69E412D",
    "type": "concert"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Brett Goldstein: Sex, Death & Small Talk",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/brett-goldstein-sex-death-small-talk-madison-wisconsin-10-23-2026/event/0700650EE9389EF5",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "UW Field House",
+   "title": "Wisconsin Badgers Womens Volleyball vs. Washington Huskies Womens Volleyball",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://uwbadgers.com/sports/womens-volleyball/schedule",
+   "type": "sports"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "ALLEYCVT",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/alleycvt-madison-wisconsin-10-23-2026/event/07006505D7868155",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Fruit Bats",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/fruit-bats-madison-wisconsin-10-23-2026/event/07006472F1389D04",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "DICE",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/dice-madison-wisconsin-10-23-2026/event/070064A7D3956EE3",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
