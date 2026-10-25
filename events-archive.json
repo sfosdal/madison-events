@@ -471,6 +471,72 @@
    "url": "https://www.ticketmaster.com/dice-madison-wisconsin-10-23-2026/event/070064A7D3956EE3",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Alliant Energy Center",
+   "title": "Dinosaur Adventure - Madison, WI Oct 2026",
+   "date": "2026-10-24",
+   "time": "09:00:00",
+   "url": "https://www.universe.com/events/dinosaur-adventure-madison-wi-oct-2026-tickets-Q4LPD7?ref=ticketmaster"
+  },
+  {
+   "venue": "Breese Stevens Field",
+   "title": "Forward Madison FC vs Union Omaha",
+   "date": "2026-10-24",
+   "time": "17:00:00",
+   "url": "https://www.forwardmadisonfc.com/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   }
+  },
+  {
+   "venue": "Camp Randall Stadium",
+   "title": "Wisconsin Badgers Football vs USC Trojans",
+   "date": "2026-10-24",
+   "time": "18:30:00",
+   "url": "https://uwbadgers.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "NBC"
+    ]
+   }
+  },
+  {
+   "venue": "Overture Center",
+   "title": "Annie",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.overture.org",
+   "type": "arts"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Sammy Rae & The Friends - the Get Down!",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/sammy-rae-the-friends-the-get-madison-wisconsin-10-24-2026/event/07006471DA0E717E",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Spooky New World",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/spooky-new-world-madison-wisconsin-10-24-2026/event/07006530A83A4CA3",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Spooky Perreo: Halloween Reggaeton Party",
+   "date": "2026-10-24",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/spooky-perreo-halloween-reggaeton-party-madison-wisconsin-10-24-2026/event/07006541B6E75671",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
