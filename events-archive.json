@@ -537,6 +537,56 @@
    "url": "https://www.ticketmaster.com/spooky-perreo-halloween-reggaeton-party-madison-wisconsin-10-24-2026/event/07006541B6E75671",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Alliant Energy Center",
+   "title": "Dinosaur Adventure - Madison, WI Oct 2026",
+   "date": "2026-10-25",
+   "time": "09:00:00",
+   "url": "https://www.universe.com/events/dinosaur-adventure-madison-wi-oct-2026-tickets-Q4LPD7?ref=ticketmaster"
+  },
+  {
+   "venue": "Overture Center",
+   "title": "Annie",
+   "date": "2026-10-25",
+   "time": "13:00:00",
+   "url": "https://www.overture.org",
+   "type": "arts"
+  },
+  {
+   "venue": "Overture Center",
+   "title": "Annie",
+   "date": "2026-10-25",
+   "time": "18:00:00",
+   "url": "https://www.overture.org",
+   "type": "arts"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Ben Folds & A Piano",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/ben-folds-a-piano-madison-wisconsin-10-25-2026/event/070064F08D5D2A4A",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-21T17:27:23.791Z"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Prince Daddy and the Hyena w/ Combat and Walter Etc.",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/prince-daddy-and-the-hyena-w-madison-wisconsin-10-25-2026/event/070064FFAD724870",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Greg Freeman",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/greg-freeman-madison-wisconsin-10-25-2026/event/070064EEC0F34752",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
