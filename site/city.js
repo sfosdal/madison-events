@@ -94,6 +94,7 @@
   var VENUES = {
     // --- Campus and downtown: the Badgers' grounds, the Alliant Energy Center, the Overture Center, the Sylvee and the Orpheum ---
     'Camp Randall Stadium': {
+      geo: [43.06928, -89.41062],
       capacity: 80321,
       type: 'sports',
       cssVar: '--v-randall',
@@ -104,6 +105,7 @@
       alias: /camp randall/i,
     },
     'Kohl Center': {
+      geo: [43.06983, -89.39592],
       capacity: 17287,
       type: 'sports',
       cssVar: '--v-kohl',
@@ -114,6 +116,7 @@
       alias: /kohl center/i,
     },
     'Veterans Memorial Coliseum': {
+      geo: [43.04696, -89.37336],
       capacity: 10231,
       type: 'concert',
       cssVar: '--v-coliseum',
@@ -124,6 +127,7 @@
       alias: /veterans memorial coliseum|coliseum at alliant/i,
     },
     'UW Field House': {
+      geo: [43.06928, -89.41062],
       capacity: 7000,
       type: 'sports',
       cssVar: '--v-fieldhouse',
@@ -134,6 +138,7 @@
       alias: /uw field house|wisconsin field house/i,
     },
     'Breese Stevens Field': {
+      geo: [43.08338, -89.37307],
       capacity: 5000,
       type: 'sports',
       cssVar: '--v-breese',
@@ -144,6 +149,7 @@
       alias: /breese stevens/i,
     },
     'Alliant Energy Center': {
+      geo: [43.04423, -89.38052],
       capacity: 5000,
       type: 'community',
       cssVar: '--v-alliant',
@@ -154,6 +160,7 @@
       alias: /arena at alliant|alliant energy center arena|exhibition hall at alliant|new holland pavilion/i,
     },
     'The Sylvee': {
+      geo: [43.08089, -89.37457],
       capacity: 2500,
       type: 'concert',
       cssVar: '--v-sylvee',
@@ -164,6 +171,7 @@
       alias: /sylvee/i,
     },
     'Overture Center': { // Overture Hall (2,251) and the Capitol Theater (1,089): Ticketmaster lists both rooms under the Capitol's name, so they are one row here
+      geo: [43.07474, -89.38833],
       capacity: 2251,
       type: 'arts',
       cssVar: '--v-overture',
@@ -174,6 +182,7 @@
       alias: /overture (?:hall|center)|capitol theat/i,
     },
     'Orpheum Theater': {
+      geo: [43.07524, -89.38871],
       capacity: 1700,
       type: 'concert',
       cssVar: '--v-orpheum',
@@ -185,6 +194,7 @@
     },
     // --- Music rooms (`area: 'town'`): the Barrymore, the Majestic and the High Noon ---
     'Barrymore Theatre': {
+      geo: [43.09312, -89.35227],
       area: 'town',
       capacity: 970,
       type: 'concert',
@@ -196,6 +206,7 @@
       alias: /barrymore/i,
     },
     'Majestic Theatre': {
+      geo: [43.07457, -89.38098],
       area: 'town',
       capacity: 600,
       type: 'concert',
@@ -207,6 +218,7 @@
       alias: /majestic theat/i,
     },
     'High Noon Saloon': {
+      geo: [43.07974, -89.37652],
       area: 'town',
       capacity: 400,
       type: 'concert',
@@ -268,6 +280,16 @@
     ics: { name: 'Madison Events', short: 'Madison Events', teams: 'Madison home teams — every season', prodid: '-//here.events//madison-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events around Madison\\, WI — Camp Randall\\, the Kohl Center\\, the Overture Center\\, the Sylvee and the music rooms' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [43.009, -89.505, 43.129, -89.258], // south, west, north, east — every room, with a margin
+      home: [43.034, -89.423, 43.093, -89.361], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.6,
+      labels: [
+        { name: 'Madison', lat: 43.073, lon: -89.401, anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     defaultOn: DEFAULT_ON,
     defaultOff: DEFAULT_OFF,
