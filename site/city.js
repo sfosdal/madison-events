@@ -262,10 +262,10 @@
   // The words the page uses for the place
   var WORDS = {
     teamCity: 'Madison', // the board drops it from the clubs' names ("Forward Madison FC" keeps its own)
-    presetDefault: 'Every room — the campus, downtown and the music rooms — every team and type',
+    presetDefault: 'Every venue — the campus, downtown and the music venues — every team and type',
     presetNeighborhood: 'The campus and downtown only',
     presetBig: 'Only the places that hold 2,000 or more — Camp Randall, the Kohl Center, the Coliseum, the Overture Center and the Sylvee',
-    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing the campus and downtown only.', big: 'Showing the big rooms only — the stadium, the arenas and the big halls.' },
+    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing the campus and downtown only.', big: 'Showing the big venues only — the stadium, the arenas and the big halls.' },
   };
 
   global.LQACity = {
