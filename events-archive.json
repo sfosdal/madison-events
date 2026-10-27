@@ -587,6 +587,15 @@
    "url": "https://www.ticketmaster.com/greg-freeman-madison-wisconsin-10-25-2026/event/070064EEC0F34752",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "American Aquarium",
+   "date": "2026-10-26",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/american-aquarium-madison-wisconsin-10-26-2026/event/070064C8C4BE59D3",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
