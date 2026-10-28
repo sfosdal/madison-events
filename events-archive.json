@@ -596,6 +596,22 @@
    "url": "https://www.ticketmaster.com/american-aquarium-madison-wisconsin-10-26-2026/event/070064C8C4BE59D3",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Wisconsin Badgers Mens Basketball vs. Oklahoma State Cowboys Mens Basketball",
+   "date": "2026-10-27",
+   "time": "18:00:00",
+   "url": "https://www.kohlcenter.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "The Tallest Man On Earth",
+   "date": "2026-10-27",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-tallest-man-on-earth-madison-wisconsin-10-27-2026/event/070064B532DBA024",
+   "type": "concert"
   }
  ]
 }
