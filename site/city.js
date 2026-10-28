@@ -145,7 +145,8 @@
       color: '#86d9ea',
       url: 'https://www.breesestevensfield.com/upcoming-events',
       icon: 'https://www.google.com/s2/favicons?domain=www.breesestevensfield.com&sz=128',
-      tm: { id: 'KovZpZAEd1vA', match: 'breese stevens', fallbackUrl: 'https://www.breesestevensfield.com/upcoming-events' },
+      tm: { id: 'KovZpZAEd1vA', match: 'breese stevens', fallbackUrl: 'https://www.breesestevensfield.com/upcoming-events' , secondary: true }, // Ticketmaster lists nothing here (0 rows every run), so the field's own calendar leads
+      feed: { kind: 'squarespace', url: 'https://www.breesestevensfield.com/upcoming-events' }, // the field's Squarespace events collection (matches, the Forward Club's comedy and theatre nights; Forward Madison's home games come from Teams too) (2026-10-27)
       alias: /breese stevens/i,
     },
     'Alliant Energy Center': {
@@ -168,6 +169,7 @@
       url: 'https://thesylvee.com/calendar/',
       icon: 'https://www.google.com/s2/favicons?domain=www.thesylvee.com&sz=128',
       tm: { id: 'KovZ917AQBC', match: 'sylvee', fallbackUrl: 'https://thesylvee.com/calendar/' },
+      feed: { kind: 'cards', secondary: true, url: 'https://thesylvee.com/calendar/', item: /<article class="event-card post-/, title: /<div class="event-title">\s*<a href="([^"]+)">([\s\S]*?)<\/a>/, when: /<div class="event-date">\s*([^<]+?)\s*<\/div>(?:\s*<div class="event-times">[^<]*(?:<i[^>]*><\/i>)?[^<]*?Show:\s*([^<|]+?)\s*<\/div>)?/ }, // FPC Live's own calendar (every card a Ticketmaster show: a date and Doors | Show clocks — the show clock kept), secondary behind Ticketmaster (2026-10-27)
       alias: /sylvee/i,
     },
     'Overture Center': { // Overture Hall (2,251) and the Capitol Theater (1,089): Ticketmaster lists both rooms under the Capitol's name, so they are one row here
@@ -190,6 +192,7 @@
       url: 'https://madisonorpheum.com/calendar/',
       icon: 'https://www.google.com/s2/favicons?domain=www.madisonorpheum.com&sz=128',
       tm: { id: 'KovZpZAalItA', match: 'orpheum', fallbackUrl: 'https://madisonorpheum.com/calendar/' },
+      feed: { kind: 'cards', secondary: true, url: 'https://madisonorpheum.com/calendar/', drop: /\b2 shows!?$/i, item: /<article class="event-card post-/, title: /<div class="event-title">\s*<a href="([^"]+)">([\s\S]*?)<\/a>/, when: /<div class="event-date">\s*([^<]+?)\s*<\/div>(?:\s*<div class="event-times">[^<]*(?:<i[^>]*><\/i>)?[^<]*?Show:\s*([^<|]+?)\s*<\/div>)?/ }, // FPC Live's own calendar, secondary behind Ticketmaster; a "– 2 Shows!" card is a clockless roll-up of two showtimes Ticketmaster lists one by one, so it is dropped (2026-10-27)
       alias: /orpheum/i,
     },
     // --- Music rooms (`area: 'town'`): the Barrymore, the Majestic and the High Noon ---
@@ -203,6 +206,7 @@
       url: 'https://www.barrymorelive.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.barrymorelive.com&sz=128',
       tm: { id: 'KovZpZAaE7dA', match: 'barrymore', fallbackUrl: 'https://www.barrymorelive.com/' },
+      feed: { kind: 'tribe', secondary: true, url: 'https://barrymorelive.com/wp-json/tribe/events/v1/events' }, // the theatre's own calendar (The Events Calendar), secondary behind Ticketmaster (2026-10-27)
       alias: /barrymore/i,
     },
     'Majestic Theatre': {
@@ -215,6 +219,7 @@
       url: 'https://majesticmadison.com/',
       icon: 'https://www.google.com/s2/favicons?domain=majesticmadison.com&sz=128',
       tm: { id: 'KovZpZAaltvA', match: 'majestic', fallbackUrl: 'https://majesticmadison.com/' },
+      feed: { kind: 'cards', secondary: true, url: 'https://majesticmadison.com/calendar/', item: /<article class="event-card post-/, title: /<div class="event-title">\s*<a href="([^"]+)">([\s\S]*?)<\/a>/, when: /<div class="event-date">\s*([^<]+?)\s*<\/div>(?:\s*<div class="event-times">[^<]*(?:<i[^>]*><\/i>)?[^<]*?Show:\s*([^<|]+?)\s*<\/div>)?/ }, // FPC Live's own calendar (the home page shows a dozen shows, /calendar/ every one), secondary behind Ticketmaster (2026-10-27)
       alias: /majestic theat/i,
     },
     'High Noon Saloon': {
@@ -227,6 +232,7 @@
       url: 'https://high-noon.com/',
       icon: 'https://www.google.com/s2/favicons?domain=high-noon.com&sz=128',
       tm: { id: 'KovZpZAaE7kA', match: 'high noon', fallbackUrl: 'https://high-noon.com/' },
+      feed: { kind: 'cards', secondary: true, url: 'https://high-noon.com/calendar/', item: /<article class="event-card post-/, title: /<div class="event-title">\s*<a href="([^"]+)">([\s\S]*?)<\/a>/, when: /<div class="event-date">\s*([^<]+?)\s*<\/div>(?:\s*<div class="event-times">[^<]*(?:<i[^>]*><\/i>)?[^<]*?Show:\s*([^<|]+?)\s*<\/div>)?/ }, // FPC Live's own calendar (/calendar/ lists every show, the home page a dozen), secondary behind Ticketmaster (2026-10-27)
       alias: /high noon/i,
     },
   };
