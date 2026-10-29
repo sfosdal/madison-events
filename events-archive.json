@@ -612,6 +612,38 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/the-tallest-man-on-earth-madison-wisconsin-10-27-2026/event/070064B532DBA024",
    "type": "concert"
+  },
+  {
+   "venue": "Breese Stevens Field",
+   "title": "Pop Culture Improv Presents: Lord of the Rings",
+   "date": "2026-10-28",
+   "time": "18:30",
+   "url": "https://www.breesestevensfield.com/upcoming-events/pop-culture-improv-lord-of-the-rings",
+   "type": "sports"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Wisconsin Badgers Womens Basketball vs. Wisconsin Eau Claire Blugolds Womens Basketball",
+   "date": "2026-10-28",
+   "time": "18:30:00",
+   "url": "https://www.kohlcenter.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "William Shatner Live On-stage with Star Trek II: The Wrath of Khan",
+   "date": "2026-10-28",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/william-shatner-live-onstage-with-star-madison-wisconsin-10-28-2026/event/0700647ABB0A5FC2",
+   "type": "arts"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "The Brook & The Bluff: The Werewolf Tour",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-brook-the-bluff-the-werewolf-madison-wisconsin-10-28-2026/event/070064C1A6B72E56",
+   "type": "concert"
   }
  ]
 }
