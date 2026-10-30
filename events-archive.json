@@ -644,6 +644,38 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/the-brook-the-bluff-the-werewolf-madison-wisconsin-10-28-2026/event/070064C1A6B72E56",
    "type": "concert"
+  },
+  {
+   "venue": "Barrymore Theatre",
+   "title": "Warren Miller’s “Days Off”",
+   "date": "2026-10-29",
+   "time": "19:30",
+   "url": "https://barrymorelive.com/event/warren-millers-days-off/",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "The Remix DJ Battle: Get Out The Vote Rally",
+   "date": "2026-10-29",
+   "time": "19:30",
+   "url": "https://high-noon.com/event/the-remix-dj-battle-get-out-the-vote-rally/",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Phillip Phillips",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "url": "https://majesticmadison.com/event/phillip-phillips/",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Phillip Phillips- Let's Go Far Tour",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/phillip-phillips-lets-go-far-tour-madison-wisconsin-10-29-2026/event/070064D2A5615B28",
+   "type": "concert"
   }
  ]
 }
