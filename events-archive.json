@@ -708,6 +708,30 @@
   },
   {
    "venue": "The Sylvee",
+   "title": "B’00 Bash: A Y2K Halloween Dance Party",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "url": "https://thesylvee.com/event/b00-bash-a-y2k-halloween-dance-party/",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Røz",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "url": "https://majesticmadison.com/event/roz/",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Ska-lloween",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "url": "https://high-noon.com/event/ska-lloween/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sylvee",
    "title": "B'00 Bash: A Y2K Halloween Dance Party",
    "date": "2026-10-30",
    "time": "20:00:00",
