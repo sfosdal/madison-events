@@ -676,6 +676,60 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/phillip-phillips-lets-go-far-tour-madison-wisconsin-10-29-2026/event/070064D2A5615B28",
    "type": "concert"
+  },
+  {
+   "venue": "Breese Stevens Field",
+   "title": "Fmfc vs Spokane Velocity (Usl League One Playoffs)",
+   "date": "2026-10-30",
+   "time": "17:30",
+   "url": "https://www.breesestevensfield.com/upcoming-events/fmfc-vs-spokane-velocity-usl-league-one-playoffs-2026",
+   "type": "sports"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Wisconsin Badgers Hockey vs. Notre Dame Fighting Irish Hockey",
+   "date": "2026-10-30",
+   "time": "19:00:00",
+   "url": "https://www.kohlcenter.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "Overture Center",
+   "title": "Annie",
+   "date": "2026-10-30",
+   "time": "19:00:00",
+   "url": "https://www.overture.org",
+   "type": "arts"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "B'00 Bash: A Y2K Halloween Dance Party",
+   "date": "2026-10-30",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/b00-bash-a-y2k-halloween-dance-madison-wisconsin-10-30-2026/event/07006542CEA07A21",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "RØZ Presents: SE Está Haciendo Tarde",
+   "date": "2026-10-30",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/rz-presents-se-esta-haciendo-tarde-madison-wisconsin-10-30-2026/event/070064C388F92107",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Ska-lloween w/ One Beer Please, Lost Island Society, and Meskales",
+   "date": "2026-10-30",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/skalloween-w-one-beer-please-lost-madison-wisconsin-10-30-2026/event/070065297E4317F7",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
