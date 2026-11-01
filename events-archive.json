@@ -754,6 +754,68 @@
    "url": "https://www.ticketmaster.com/skalloween-w-one-beer-please-lost-madison-wisconsin-10-30-2026/event/070065297E4317F7",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Overture Center",
+   "title": "Annie",
+   "date": "2026-10-31",
+   "time": "14:00:00",
+   "url": "https://www.overture.org",
+   "type": "arts"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Wisconsin Badgers Hockey vs. Notre Dame Fighting Irish Hockey",
+   "date": "2026-10-31",
+   "time": "18:00:00",
+   "url": "https://www.kohlcenter.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "Overture Center",
+   "title": "Annie",
+   "date": "2026-10-31",
+   "time": "19:00:00",
+   "url": "https://www.overture.org",
+   "type": "arts"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Evan Honer",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "url": "https://majesticmadison.com/event/evan-honer/",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "HalloWEEN ’26",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "url": "https://high-noon.com/event/halloween-26/",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Evan Honer-It's An Even Longer Road Tour",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/evan-honerits-an-even-longer-road-madison-wisconsin-10-31-2026/event/070064C9A2512EE1",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "HalloWEEN '26",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/halloween-26-madison-wisconsin-10-31-2026/event/0700650DCB23681D",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
