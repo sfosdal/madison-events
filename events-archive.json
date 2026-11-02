@@ -816,6 +816,39 @@
    "url": "https://www.ticketmaster.com/halloween-26-madison-wisconsin-10-31-2026/event/0700650DCB23681D",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Overture Center",
+   "title": "Annie",
+   "date": "2026-11-01",
+   "time": "13:00:00",
+   "url": "https://www.overture.org",
+   "type": "arts"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Halloween Hangover III",
+   "date": "2026-11-01",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/halloween-hangover-iii-madison-wisconsin-11-01-2026/event/070064F4B81A31FF",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Rodrigo y Gabriela - OurHome Tour",
+   "date": "2026-11-01",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/rodrigo-y-gabriela-ourhome-tour-madison-wisconsin-11-01-2026/event/070064C48E692F64",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Winyah",
+   "date": "2026-11-01",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/winyah-madison-wisconsin-11-01-2026/event/070064F6B1895219",
+   "type": "concert"
   }
  ]
 }
