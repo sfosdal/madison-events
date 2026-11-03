@@ -288,6 +288,7 @@
     teams: TEAMS,
     map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
       kind: 'urban',
+      boundary: { osm: 3352040 }, // the city line, always drawn (Steve, 2026-11-02): OpenStreetMap's boundary relation for Madison
       bbox: [43.009, -89.505, 43.129, -89.258], // south, west, north, east — every room, with a margin
       home: [43.034, -89.423, 43.093, -89.361], // the view at first: the city's own rooms; the fit button shows the whole frame
       roads: ['motorway', 'trunk', 'primary'],
