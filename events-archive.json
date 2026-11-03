@@ -849,6 +849,28 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/winyah-madison-wisconsin-11-01-2026/event/070064F6B1895219",
    "type": "concert"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Wisconsin Badgers Mens Basketball vs. Denver Pioneers Mens Basketball",
+   "date": "2026-11-02",
+   "time": "18:30:00",
+   "url": "https://www.kohlcenter.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Noah Gundersen: Rites of Spring US Tour Fall 2026",
+   "date": "2026-11-02",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/noah-gundersen-rites-of-spring-us-madison-wisconsin-11-02-2026/event/070064B5BC165CA0",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
