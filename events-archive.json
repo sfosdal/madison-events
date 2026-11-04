@@ -871,6 +871,30 @@
    "url": "https://www.ticketmaster.com/noah-gundersen-rites-of-spring-us-madison-wisconsin-11-02-2026/event/070064B5BC165CA0",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Wisconsin Badgers Womens Basketball vs. Bradley Braves Womens Basketball",
+   "date": "2026-11-03",
+   "time": "18:30:00",
+   "url": "https://www.kohlcenter.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Trippie Redd - The Non-disclosure Agreement Tour",
+   "date": "2026-11-03",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/trippie-redd-the-nondisclosure-agreement-tour-madison-wisconsin-11-03-2026/event/07006531E5658F09",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Donny Benét",
+   "date": "2026-11-03",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/donny-benet-madison-wisconsin-11-03-2026/event/07006489BD445556",
+   "type": "concert"
   }
  ]
 }
