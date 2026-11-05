@@ -895,6 +895,38 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/donny-benet-madison-wisconsin-11-03-2026/event/07006489BD445556",
    "type": "concert"
+  },
+  {
+   "venue": "Barrymore Theatre",
+   "title": "A Celebration of Howard Zinn",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "url": "https://barrymorelive.com/event/a-celebration-of-howard-zinn/",
+   "type": "concert"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Dave Matthews Band",
+   "date": "2026-11-04",
+   "time": "19:30:00",
+   "url": "https://uwbadgers.evenue.net/events/DMB",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "[POSTPONED] Sophie Hunter",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "url": "https://high-noon.com/event/sophie-hunter/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Orville Peck - Man Turned Mule Tour",
+   "date": "2026-11-04",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/orville-peck-man-turned-mule-tour-madison-wisconsin-11-04-2026/event/070064EF956428E9",
+   "type": "concert"
   }
  ]
 }
