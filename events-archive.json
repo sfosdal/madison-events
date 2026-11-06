@@ -927,6 +927,63 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/orville-peck-man-turned-mule-tour-madison-wisconsin-11-04-2026/event/070064EF956428E9",
    "type": "concert"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Taste of Hope",
+   "date": "2026-11-05",
+   "time": "18:00",
+   "url": "https://thesylvee.com/event/taste-of-hope/",
+   "type": "concert"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Wisconsin Badgers Womens Basketball vs. Oakland Golden Grizzlies Womens Basketball",
+   "date": "2026-11-05",
+   "time": "18:30:00",
+   "url": "https://www.kohlcenter.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "UW Field House",
+   "title": "Wisconsin Badgers Womens Volleyball vs. Michigan State Spartans Womens Volleyball",
+   "date": "2026-11-05",
+   "time": "19:00:00",
+   "url": "https://uwbadgers.com/sports/womens-volleyball/schedule",
+   "type": "sports"
+  },
+  {
+   "venue": "Barrymore Theatre",
+   "title": "Andrea Gibson's Love Letter From The Afterlife",
+   "date": "2026-11-05",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/andrea-gibsons-love-letter-from-the-madison-wisconsin-11-05-2026/event/07006507957854FC",
+   "type": "arts"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Scott Bradlee's Postmodern Jukebox - The Future Is Vintage World Tour",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-madison-wisconsin-11-05-2026/event/0700649DD0BD8A7C",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Die Spitz",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/die-spitz-madison-wisconsin-11-05-2026/event/070064549AA24EC5",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "The Bends",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-bends-madison-wisconsin-11-05-2026/event/0700648AB11A4F0D",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
