@@ -984,6 +984,59 @@
    "url": "https://www.ticketmaster.com/the-bends-madison-wisconsin-11-05-2026/event/0700648AB11A4F0D",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Wisconsin Badgers Mens Basketball vs. Delaware Blue Hens Mens Basketball",
+   "date": "2026-11-06",
+   "time": "18:30:00",
+   "url": "https://www.kohlcenter.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Wage War - Emergency Broadcast Tour",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/wage-war-emergency-broadcast-tour-madison-wisconsin-11-06-2026/event/070064C29EC8384C",
+   "type": "concert"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "MDEV: The Kick-Off Event",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/mdev-the-kickoff-event-madison-wisconsin-11-06-2026/event/070065488E6B2B5B"
+  },
+  {
+   "venue": "Barrymore Theatre",
+   "title": "Better Than Ezra - Legends of the Fall: Closer To The Edge",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/better-than-ezra-legends-of-the-madison-wisconsin-11-06-2026/event/070064FEC4425A6F",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "West 22nd: Places To Be",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/west-22nd-places-to-be-madison-wisconsin-11-06-2026/event/07006486C57C4B83",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Six Foot Blonde",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/six-foot-blonde-madison-wisconsin-11-06-2026/event/070064D0C048863D",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
