@@ -1037,6 +1037,68 @@
    "url": "https://www.ticketmaster.com/six-foot-blonde-madison-wisconsin-11-06-2026/event/070064D0C048863D",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "GOLDEN: A K-Pop Kids Party",
+   "date": "2026-11-07",
+   "time": "11:00:00",
+   "url": "https://www.ticketmaster.com/golden-a-kpop-kids-party-madison-wisconsin-11-07-2026/event/070064FDA71634A8",
+   "type": "concert"
+  },
+  {
+   "venue": "Camp Randall Stadium",
+   "title": "Wisconsin Badgers Football vs Rutgers Scarlet Knights",
+   "date": "2026-11-07",
+   "time": "15:15:00",
+   "url": "https://uwbadgers.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "BTN"
+    ]
+   }
+  },
+  {
+   "venue": "Barrymore Theatre",
+   "title": "Sabrina Cast Reunion 30 Year Anniversary Live",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/sabrina-cast-reunion-30-year-anniversary-madison-wisconsin-11-07-2026/event/0700653106F2A9F0",
+   "type": "arts"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Unrest Fest 2026",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/unrest-fest-2026-madison-wisconsin-11-07-2026/event/07006531DF028A9B",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Avery Anna - Blood Runs Thicker Tour",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/avery-anna-blood-runs-thicker-tour-madison-wisconsin-11-07-2026/event/070064F5B5EF3E5F",
+   "type": "concert"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Dave Attell",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/dave-attell-madison-wisconsin-11-07-2026/event/07006489D0596328",
+   "type": "arts"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Phoebe Robinson - Feral & Fired Up!",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/phoebe-robinson-feral-fired-up-madison-wisconsin-11-07-2026/event/07006465C0927FD3",
+   "type": "arts"
   }
  ]
 }
