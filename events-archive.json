@@ -1099,6 +1099,80 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/phoebe-robinson-feral-fired-up-madison-wisconsin-11-07-2026/event/07006465C0927FD3",
    "type": "arts"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Friends of Shabazz Launch Party & Music Benefit",
+   "date": "2026-11-08",
+   "time": "12:00",
+   "url": "https://high-noon.com/event/friends-of-shabazz-launch-party-music-benefit/",
+   "type": "concert"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Wisconsin Badgers Womens Basketball vs. Grambling State Tigers Womens Basketball",
+   "date": "2026-11-08",
+   "time": "14:00:00",
+   "url": "https://www.kohlcenter.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "UW Field House",
+   "title": "Wisconsin Badgers Womens Volleyball vs. Penn State Nittany Lions Womens Volleyball",
+   "date": "2026-11-08",
+   "time": "15:00:00",
+   "url": "https://uwbadgers.com/sports/womens-volleyball/schedule",
+   "type": "sports"
+  },
+  {
+   "venue": "Breese Stevens Field",
+   "title": "Fmfc Watch Party: Usl League One Semi-Final Match vs Charlotte Independence",
+   "date": "2026-11-08",
+   "time": "17:00",
+   "url": "https://www.breesestevensfield.com/upcoming-events/fmfc-vs-charlotte-independence-watch-party-11-8-26",
+   "type": "sports"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Psychostick",
+   "date": "2026-11-08",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/psychostick-madison-wisconsin-11-08-2026/event/070064F5AB67313C",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Cheap Trick",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/cheap-trick-madison-wisconsin-11-08-2026/event/0700630DB75A2F85",
+   "type": "concert"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
+   "date": "2026-11-09",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/daniel-sloss-bitter-brand-new-tour-madison-wisconsin-11-09-2026/event/07006442395F8E4A",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Madison StorySLAM",
+   "date": "2026-11-09",
+   "time": "19:30",
+   "url": "https://high-noon.com/event/madison-storyslam-november/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Jack White Live 2026",
+   "date": "2026-11-09",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/jack-white-live-2026-madison-wisconsin-11-09-2026/event/07006488BBA658E6",
+   "type": "concert"
   }
  ]
 }
