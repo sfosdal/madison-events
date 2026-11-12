@@ -1203,6 +1203,39 @@
    "url": "https://www.ticketmaster.com/fruitionsomething-more-tour-madison-wisconsin-11-10-2026/event/070064CCF05C831E",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Wisconsin Badgers Womens Basketball vs. Delaware Blue Hens Womens Basketball",
+   "date": "2026-11-11",
+   "time": "18:30:00",
+   "url": "https://www.kohlcenter.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Dr. Neil Degrasse Tyson - Search For Life In The Universe",
+   "date": "2026-11-11",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/dr-neil-degrasse-tyson-search-for-madison-wisconsin-11-11-2026/event/0700648217A5C23C"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Day Made Tour Ft. Big Red DJ Set (Alex Dougherty of Dougherty Dozen)",
+   "date": "2026-11-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/day-made-tour-ft-big-red-madison-wisconsin-11-11-2026/event/070064FEA670411C",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Low Cut Connie",
+   "date": "2026-11-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/low-cut-connie-madison-wisconsin-11-11-2026/event/0700648ACF826844",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
