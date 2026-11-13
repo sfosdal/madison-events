@@ -1236,6 +1236,31 @@
    "url": "https://www.ticketmaster.com/low-cut-connie-madison-wisconsin-11-11-2026/event/0700648ACF826844",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "STS9: Human Dream Tour",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/sts9-human-dream-tour-madison-wisconsin-11-12-2026/event/070064C9CBA352B0",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Lily Rose",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/lily-rose-madison-wisconsin-11-12-2026/event/070064D6BCDB502E",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Mustard Plug w/ Something To Do, Deven Kay & The Solutions",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/mustard-plug-w-something-to-do-madison-wisconsin-11-12-2026/event/070064C2C8885C5D",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
