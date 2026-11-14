@@ -1261,6 +1261,44 @@
    "url": "https://www.ticketmaster.com/mustard-plug-w-something-to-do-madison-wisconsin-11-12-2026/event/070064C2C8885C5D",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Wisconsin Badgers Hockey vs. Ohio State Buckeyes Mens Ice Hockey",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.kohlcenter.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Hottt Probs, Heet Deth & Sex Scenes",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/hottt-probs-heet-deth-sex-scenes-madison-wisconsin-11-13-2026/event/07006519C889598F",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Kitchen Dwellers x Dogs in a Pile",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/kitchen-dwellers-x-dogs-in-a-madison-wisconsin-11-13-2026/event/0700650CA49CE57A",
+   "type": "concert"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "The Widdler",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-widdler-madison-wisconsin-11-13-2026/event/0700653087F41BF7",
+   "type": "concert"
   }
  ]
 }
