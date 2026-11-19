@@ -1420,6 +1420,37 @@
    "time": "19:00:00",
    "url": "https://uwbadgers.com/sports/womens-volleyball/schedule",
    "type": "sports"
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Badger Stories For Civic Health FT. Dasha Kelly",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "url": "https://majesticmadison.com/event/badger-stories-for-civic-health-ft-dasha-kelly/",
+   "type": "concert"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Nerd Nite",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "url": "https://high-noon.com/event/nerd-nite-november/",
+   "type": "concert"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Goodsource Presents: Campus Nights With Elevation Rhythm",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/goodsource-presents-campus-nights-with-elevation-madison-wisconsin-11-18-2026/event/070064F695CE3139",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 20,
+    "checked": "2026-11-17T00:13:39.041Z",
+    "from": 34
+   },
+   "soldOut": true
   }
  ]
 }
