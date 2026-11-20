@@ -1451,6 +1451,37 @@
     "from": 34
    },
    "soldOut": true
+  },
+  {
+   "venue": "Breese Stevens Field",
+   "title": "Pile of Cats Theater Co. Presents... Laughing Jackdaws in The Forward Club",
+   "date": "2026-11-19",
+   "time": "18:30",
+   "url": "https://www.breesestevensfield.com/upcoming-events/pile-of-cats-theater-co-presents-laughing-jackdaws-11-19",
+   "type": "sports"
+  },
+  {
+   "venue": "Barrymore Theatre",
+   "title": "Marc Maron: Yammering into the Void Tour",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/marc-maron-yammering-into-the-void-madison-wisconsin-11-19-2026/event/07006482A3225601",
+   "type": "arts"
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Humbird",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/humbird-madison-wisconsin-11-19-2026/event/070064F4C2583C1E",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": 328,
+    "resale": 0,
+    "checked": "2026-11-17T00:24:19.683Z",
+    "from": 20
+   }
   }
  ]
 }
