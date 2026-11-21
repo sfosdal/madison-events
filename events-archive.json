@@ -1482,6 +1482,64 @@
     "checked": "2026-11-17T00:24:19.683Z",
     "from": 20
    }
+  },
+  {
+   "venue": "Barrymore Theatre",
+   "title": "Flannel Fest",
+   "date": "2026-11-20",
+   "time": "18:00",
+   "url": "https://barrymorelive.com/event/flannel-fest-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "Breese Stevens Field",
+   "title": "Pile of Cats Theater Co. Presents... Laughing Jackdaws in The Forward Club",
+   "date": "2026-11-20",
+   "time": "18:30",
+   "url": "https://www.breesestevensfield.com/upcoming-events/pile-of-cats-theater-co-presents-laughing-jackdaws-11-20",
+   "type": "sports"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Wisconsin Badgers Hockey vs. Penn State Nittany Lions Mens Hockey",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.kohlcenter.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "The Jayhawks: Sanctuary Park Tour",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-jayhawks-sanctuary-park-tour-madison-wisconsin-11-20-2026/event/070064D4F23488F5",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:41:32.975Z",
+    "from": 50.85
+   }
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Left Lane Cruiser, 20 Watt Tombstone & Electromag",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/left-lane-cruiser-20-watt-tombstone-madison-wisconsin-11-20-2026/event/0700653DEC33A54D",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": 376,
+    "resale": 0,
+    "checked": "2026-11-17T00:41:36.919Z",
+    "from": 18
+   }
   }
  ]
 }
