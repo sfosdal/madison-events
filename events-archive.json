@@ -1540,6 +1540,88 @@
     "checked": "2026-11-17T00:41:36.919Z",
     "from": 18
    }
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Music Con Brio",
+   "date": "2026-11-21",
+   "time": "12:00",
+   "url": "https://high-noon.com/event/music-con-brio/",
+   "type": "concert"
+  },
+  {
+   "venue": "Kohl Center",
+   "title": "Wisconsin Badgers Hockey vs. Penn State Nittany Lions Mens Hockey",
+   "date": "2026-11-21",
+   "time": "18:00:00",
+   "url": "https://www.kohlcenter.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Nurse John: Against Medical Advice Tour",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/nurse-john-against-medical-advice-tour-madison-wisconsin-11-21-2026/event/070064A1F83F9F9A",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "The Sylvee",
+   "title": "Slow Pulp",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/slow-pulp-madison-wisconsin-11-21-2026/event/070064A5D83A7F56",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T01:11:13.296Z",
+    "from": 34.65
+   }
+  },
+  {
+   "venue": "Majestic Theatre",
+   "title": "Rod Tuffcurls & the Bench Press",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/rod-tuffcurls-the-bench-press-madison-wisconsin-11-21-2026/event/07006522CADA4F02",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:56:15.183Z",
+    "from": 31.65
+   }
+  },
+  {
+   "venue": "High Noon Saloon",
+   "title": "Houses In Motion (Talking Heads Tribute)",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/houses-in-motion-talking-heads-tribute-madison-wisconsin-11-21-2026/event/070065287BFF1542",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": 211,
+    "resale": 0,
+    "checked": "2026-11-21T00:56:17.839Z",
+    "from": 15
+   }
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Nurse John: Against Medical Advice Tour",
+   "date": "2026-11-21",
+   "time": "21:30:00",
+   "url": "https://www.ticketmaster.com/nurse-john-against-medical-advice-tour-madison-wisconsin-11-21-2026/event/0700650591872EB1",
+   "age21": true,
+   "type": "arts"
   }
  ]
 }
