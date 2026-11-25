@@ -1682,6 +1682,14 @@
    "time": "20:00",
    "url": "https://high-noon.com/event/the-gringos/",
    "type": "concert"
+  },
+  {
+   "venue": "Overture Center",
+   "title": "Maybe Happy Ending (Touring)",
+   "date": "2026-11-24",
+   "time": "19:30:00",
+   "url": "https://www.overture.org",
+   "type": "arts"
   }
  ]
 }
